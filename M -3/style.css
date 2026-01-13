@@ -1,0 +1,79 @@
+nav ul {
+
+display: flex;
+justify-content: center;
+list-style: none;
+text-align: center;
+gap: 25px;
+
+
+}
+
+nav li a{
+    text-decoration: none;
+
+}
+
+nav{
+    background-color: bisque;
+    margin-top: 0%;
+    padding: 10px;
+}
+
+.centar{
+    text-align: center;
+    font-size:25px;
+}
+
+fieldset{
+    margin: 55px solid black
+     ;
+     background-color: salmon;
+}
+fieldset legend{
+    display: flex;
+    text-align: center;
+}
+button{ 
+    margin: 0 10 5px;
+    padding:0 15px ;
+    background-color: lightseagreen;
+}
+
+
+section h2{ 
+    text-align: center;
+    color: brown
+    ;
+}
+ section h3{
+    text-align: center;
+    color: rgb(245, 56, 9);
+ }
+
+
+ body{
+     background-color: lightsteelblue;
+ }
+
+
+ table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 8px; 
+    background-color: rgb(233, 217, 214);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-decoration: none;
+   text-align: center;
+   align-content: center;
+ 
+
+ }
+
+.table{display: flex; justify-content: center; align-content: center;}
+
+h3{
+    display: flex; justify-content: center; align-content: center;
+    margin: 100px;
+    padding: 2px;
+}
